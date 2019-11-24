@@ -1,0 +1,10 @@
+{
+  "name": "HFC-SDK-Test",
+  "version": "1.2.0",
+  "testFabricVersion": "1.2.0",
+  "main": "index.js",
+  "devDependencies": {
+    "fabric-ca-client": "file:./fabric-ca-client",
+    "fabric-client": "file:./fabric-client",
+  }
+}
